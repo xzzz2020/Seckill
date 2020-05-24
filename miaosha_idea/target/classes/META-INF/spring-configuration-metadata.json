@@ -1,0 +1,52 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "cn.xzzz2020.miaosha.redis.config.RedisConfig",
+      "name": "redis",
+      "type": "cn.xzzz2020.miaosha.redis.config.RedisConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "cn.xzzz2020.miaosha.redis.config.RedisConfig",
+      "name": "redis.host",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "cn.xzzz2020.miaosha.redis.config.RedisConfig",
+      "name": "redis.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "cn.xzzz2020.miaosha.redis.config.RedisConfig",
+      "defaultValue": 0,
+      "name": "redis.pool-max-idle",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "cn.xzzz2020.miaosha.redis.config.RedisConfig",
+      "defaultValue": 0,
+      "name": "redis.pool-max-total",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "cn.xzzz2020.miaosha.redis.config.RedisConfig",
+      "defaultValue": 0,
+      "name": "redis.pool-max-wait",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "cn.xzzz2020.miaosha.redis.config.RedisConfig",
+      "defaultValue": 0,
+      "name": "redis.port",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "cn.xzzz2020.miaosha.redis.config.RedisConfig",
+      "defaultValue": 0,
+      "name": "redis.timeout",
+      "type": "java.lang.Integer"
+    }
+  ]
+}
